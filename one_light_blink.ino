@@ -1,4 +1,5 @@
 // Comment for Assignment 13 - Ethan Lee (EJL63)
+// Albert Sommar (ADS231)
 #define redLED 8
 #define pushButton 9
 
